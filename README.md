@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaushik</h1>
-<h3 align="center">I am a full-stack,devops and data engineer with varied interest</h3>
+<h3 align="center">I am a learning full-stack,devops data engineering and web3</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushik49&label=Profile%20views&color=0e75b6&style=flat" alt="kaushik49" /> </p>
 
